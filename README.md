@@ -14,4 +14,4 @@ This Python project is designed to analyze and visualize data extraced directly 
 - yfinance
 - Matplotlib
 
-![Plot1](https://github.com/rm1367/Time-Series-Data-Analysis/blob/main/images/Proj11-3.jpg)
+![Plot1](https://github.com/rm1367/StockProject/blob/main/images/stockproject.png)
